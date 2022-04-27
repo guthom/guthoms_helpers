@@ -1,0 +1,16 @@
+\.idea
+
+\build
+\dist
+\ropose_dataset_tools.egg-info
+
+*.pyc
+
+\thirdparty
+
+#pip stuff
+\guthoms_helpers.egg-info
+
+#keras and pythorch stuff
+*.hd5
+*.pt
